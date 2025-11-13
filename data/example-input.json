@@ -1,0 +1,12 @@
+{
+  "post": "https://truthsocial.com/@IStandWithTrump47/113943538543524813",
+  "limit": 100,
+  "sort": "newest",
+  "language": "en",
+  "min_replies": 0,
+  "min_reblogs": 0,
+  "min_favourites": 0,
+  "clean_content": true,
+  "output": "data/comments.json",
+  "format": "json"
+}
