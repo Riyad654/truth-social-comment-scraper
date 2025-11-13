@@ -1,0 +1,20 @@
+onfiguration File
+You can store defaults in src/config/settings.example.json and pass a custom file with:
+bashpython src/main.py --config path/to/settings.json --post "https://truthsocial.com/@user/123"
+
+Command-line flags always override values from the config file.
+Running Tests
+From the repository root:
+bashpytest
+
+bash
+### Truth Social Comment Scraper/docker/Dockerfile
+```dockerfile
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+ && rm -rf /var/lib/apt/lists/*
