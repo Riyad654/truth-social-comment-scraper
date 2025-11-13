@@ -1,0 +1,96 @@
+[
+  {
+    "created_at": "2025-02-04T03:40:19.675Z",
+    "edited_at": null,
+    "spoiler_text": "",
+    "language": "en",
+    "id": "113943538543524813",
+    "in_reply_to_id": "113943147684253813",
+    "in_reply_to_account_id": "107780257626128497",
+    "sensitive": false,
+    "visibility": "public",
+    "uri": "https://truthsocial.com/users/IStandWithTrump47/statuses/113943538543524813",
+    "url": "https://truthsocial.com/@IStandWithTrump47/113943538543524813",
+    "replies_count": 14,
+    "reblogs_count": 108,
+    "favourites_count": 346,
+    "favourited": false,
+    "reblogged": false,
+    "muted": false,
+    "bookmarked": false,
+    "content": "<p>We demand term limits! <a href=\"https://truthsocial.com/tags/Truth\" class=\"mention hashtag\" rel=\"tag\">#<span>Truth</span></a>!</p>",
+    "text": null,
+    "quote_id": null,
+    "reblog": null,
+    "application": null,
+    "account": {
+      "username": "IStandWithTrump47",
+      "accepting_messages": true,
+      "feeds_onboarded": true,
+      "tv_onboarded": true,
+      "bookmarks_onboarded": false,
+      "show_nonmember_group_statuses": true,
+      "receive_only_follow_mentions": false,
+      "moved": null,
+      "id": "111712445995142466",
+      "acct": "IStandWithTrump47",
+      "note": "<p>We the people have spoken, we have sent Trump back to the White House by a historical landslide. I feel honored and blessed to witness him for another term🇺🇸</p>",
+      "url": "https://truthsocial.com/@IStandWithTrump47",
+      "avatar": "https://static-assets-1.truthsocial.com/.../avatar.jpeg",
+      "avatar_static": "https://static-assets-1.truthsocial.com/.../avatar.jpeg",
+      "header": "https://static-assets-1.truthsocial.com/.../header.jpeg",
+      "header_static": "https://static-assets-1.truthsocial.com/.../header.jpeg",
+      "created_at": "2024-01-07T03:04:09.098Z",
+      "last_status_at": "2025-02-04",
+      "display_name": "🎀WomenForTrump💕🔥🗽🇺🇸",
+      "locked": false,
+      "bot": false,
+      "discoverable": true,
+      "emojis": [],
+      "fields": [],
+      "suspended": null,
+      "location": "",
+      "chats_onboarded": true,
+      "website": "",
+      "verified": false,
+      "tv_account": false,
+      "group": false,
+      "followers_count": 25652,
+      "following_count": 958,
+      "statuses_count": 67987
+    },
+    "mentions": [
+      {
+        "id": "107780257626128497",
+        "username": "realDonaldTrump",
+        "url": "https://truthsocial.com/@realDonaldTrump",
+        "acct": "realDonaldTrump"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Truth",
+        "url": "https://truthsocial.com/tags/Truth"
+      }
+    ],
+    "poll": null,
+    "quote": null,
+    "in_reply_to": null,
+    "emojis": [],
+    "card": null,
+    "group": null,
+    "media_attachments": [
+      {
+        "type": "image",
+        "description": null,
+        "id": "113943538499988908",
+        "url": "https://static-assets-1.truthsocial.com/.../original.jpg",
+        "preview_url": "https://static-assets-1.truthsocial.com/.../small.jpg",
+        "text_url": "https://truthsocial.com/media/113943538499988908"
+      }
+    ],
+    "tombstone": null,
+    "tv": null,
+    "version": "1"
+  }
+]
